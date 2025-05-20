@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/bento-grid-fBepMdt7QJ)
+- Live Site URL: [GitHub Pages](https://eduardo-vinicius-dos-sr.github.io/Bento-grid/)
 
 ## My process
 
